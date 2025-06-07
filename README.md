@@ -1,14 +1,15 @@
 # TASK-6
 # Sales Trend Analysis Using Aggregations
-# 🛒 Sales Trend Analysis Report
+
+## Sales Trend Analysis Report
 
 This repository contains the results of a monthly sales trend analysis performed on an online retail dataset.
 
-## 📈 Objective
+##  Objective
 
 Analyze monthly revenue and order volume using SQL and provide the results in different formats for submission.
 
-## 📂 Files Included
+##  Files Included
 
 sales_data.csv – Excel file with the sales data
 
